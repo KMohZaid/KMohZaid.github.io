@@ -50,7 +50,7 @@ Visit your new website at `https://<USERNAME>.github.io`!
 
 * **Client-Side Templating** - Allows for easy customization and maintenance. Tempaltes can be found in the `/templates/` directory.
 
-* **Mobile Friendly** - page elements automatically adjusts based on screen width using a responsive web design. 
+* **Mobile Friendly** - Page elements automatically adjust based on screen width using a responsive web design. 
   
 * **Dynamically List Blog Titles** - Automatically list blog titles by reading data from the site's RSS feed or a separate JSON data file. See source code at the bottom of `/index.html` for more. 
 <br>
