@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- PAGE SEO  [EDIT] -->
+        <title>About</title>
+        <meta name="author" content="YOUR NAME">
+        <meta name="description" content="PAGE/POST DESCRIPTION">
+        <meta name="keywords" content="PAGE/POST KEYWORDS">
+
+        <!-- Meta tags & Resources -->
+        <meta name="robots" content="index, follow">
+        <meta name="viewport" content="initial-scale=1.0">
+        <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="stylesheet" href="/css/core.css">
+        <script type="text/javascript" src="/config.js"></script>
+
+        <!-- External JS Resources -->
+        <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js" crossorigin="anonymous"></script>
+
+        <!--Google Analytics-->
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', Config.gtag, 'auto');
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+        </script>
+    </head>
+    <body>
+        <navbar></navbar>
+        <banner id="banner"></banner>
+
+        <div id="wrapper" class="center">
+            <div class="content">
+                <h1>About</h1>
+                <hr>
+                <!-- Profile picture automatically loaded from config.js -->
+                <div class="profile_pic"></div>
+
+                <!--                                    -->
+                <!--    [EDIT]                          -->
+                <!--    Add About page content below    -->
+                <!--                                    -->
+                <p>
+                    Lorem ipsum dolor sit amet. Sed consequatur autem ut veniam fuga et magni recusandae in nesciunt quis
+                    aut ipsa sequi! Ut dignissimos optio qui cumque dolore ut <a href="#">dolorem</a> facere qui voluptatem tempora.
+                </p>
+
+                <p>
+                    Ad inventore libero est <a href="#">perspiciatis explicabo</a> ut dolorem quia eum iure eligendi. Ut soluta
+                    accusamus At libero numquam est itaque dolor ex minima delectus in repellat optio quo voluptatum
+                    eius eos quasi iure.
+                </p>
+
+                <h3>Contact</h3>
+                    Est illo odit a minima suscipit aut aspernatur mollitia! Est repudiandae ipsum ut culpa atque
+                    ea voluptatem voluptas et <a href="#">repellat</a> unde ab maxime enim aut dicta molestiae et
+                    consequatur sint.
+            </div>
+        </div>
+        <footer></footer>
+        <script>
+            var i = document.createElement('img');
+            i.src = Config.profile_pic;
+            $('.profile_pic').append(i);
+        </script>
+        <script type="text/javascript" src="/js/core.js"></script>
+    </body>
+</html>

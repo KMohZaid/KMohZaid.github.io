@@ -1,0 +1,10 @@
+[
+  {
+    "title" : "My First Blog Post",
+    "link" : "/blog/01/post-template.html",
+    "date" : "January 00, 0000",
+    "image" : "/blog/01/thumb.jpg",
+    "description" : "This is my first post using an awesome GitHub Pages template by m8r0wn!",
+    "category" : "infosec"
+  }
+]

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+
+  <title>YOUR_NAME_HERE</title>
+  <link>https://EDIT_USERNAME.github.io/</link>
+  <description>YOUR_SITE_DESCRIPTION</description>
+  <ttl>60</ttl>
+  <image>
+	<url>https://EDIT_USERNAME.github.io/img/profilepic.jpg</url>
+	<title>EDIT_USERNAME.github.io</title>
+	<link>https://EDIT_USERNAME.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+  </image>
+
+  <item>
+    <title>My First Blog Post</title>
+    <link>https://EDIT_USERNAME.github.io/blog/01/post-template.html</link>
+    <pubDate>January 00, 0000</pubDate>
+    <image>http://EDIT_USERNAME.github.io/blog/01/thumb.jpg</image>
+    <description>This is my first post using an awesome GitHub Pages template by m8r0wn!</description>
+    <category>infosec</category>
+  </item>
+
+</channel>
+</rss>

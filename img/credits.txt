@@ -1,0 +1,7 @@
+# Photo credits for images used in the default template:
+
+/favicon.ico -  https://www.freefavicon.com/freefavicons/holiday/iconinfo/skull-152-28489.html
+/img/profile_pic.jpg - https://unsplash.com/photos/dYEuFB8KQJk
+/img/banner.jpg - https://unsplash.com/photos/EUsVwEOsblE
+/blog/01/thumb.jpg - https://pixabay.com/illustrations/tech-circle-technology-abstract-3041437/
+/blog/01/example.jpg - https://pixabay.com/illustrations/hacker-computer-spirit-cyber-code-4031973/
