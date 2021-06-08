@@ -44,37 +44,15 @@ Visit your new website at `https://<USERNAME>.github.io`!
 
 
 ## Features
-* **Config.js** - The `config.js` file allows users to control and modify the 
-site's color scheme, banner image, social media links, and more all from one place. 
+* **Config.js** - Single file to control and modify site colors, banner image, social media links, and more.
 
-* **Pre-Marked Templates** - The project's exiting directory structure and pages provide content creators with 
-a great starting point. However, the template's easily marked `[EDIT]` fields supports even the most novice of users.
-This helps users place site content, navigation links, even Search Engine Optimization (SEO) tags.
+* **Pre-Marked Templates** - Customize the site yourself or follow the premarked `[EDIT]` tags to get stared with site content, and SEO settings. 
 
-* **Client-Side Templating** - The site's navigation bar and footer utilize client-side templating, which allows for easy 
-customization and maintenance. If needed, users can modify these objects under the `/templates/` directory.
+* **Client-Side Templating** - Allows for easy customization and maintenance. Tempaltes can be found in the `/templates/` directory.
 
-* **Mobile Friendly** - CSS styling is used to create a responsive web design. This means the sizing of page 
-elements automatically adjusts based on screen width to optimize the site for a variety of devices.
+* **Mobile Friendly** - page elements automatically adjusts based on screen width using a responsive web design. 
   
-* **Dynamically List Blog Titles** - Users can dynamically create a blog index on the Home page by 
-reading from their site's `rss.xml` feed or through a dedicated `JSON` data file. These options are clearly marked at the 
-bottom of `/index.html`.
-  
-```text
-RSSReader(RSS_Source, img=0, desc=0)
-    Create a blog index using the sites own RSS feed. Provide the source url, option to include images,
-    and option to include post descriptions (0=False [Default], 1=True).
-
-JSONReader(JSON_SOURCE, img=0, desc=0)
-    Create blog index by reading data from a given JSON file. Provide the source url, option to include images,
-    and option to include post descriptions (0=False [Default], 1=True).
-
-e.x: /index.html
-<script>
-    RSSReader('/rss.xml', img=0, desc=1);
-</script>  
-```
+* **Dynamically List Blog Titles** - Automatically list blog titles by reading data from the site's RSS feed or a separate JSON data file. See source code at the bottom of `/index.html` for more. 
 <br>
 
 ## Screenshots
