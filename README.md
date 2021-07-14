@@ -46,7 +46,7 @@ Visit your new website at `https://<USERNAME>.github.io`!
 ## Features
 * **Config.js** - Single file to control and modify site colors, banner image, social media links, and more.
 
-* **Pre-Marked Templates** - Customize the site yourself or follow the premarked `[EDIT]` tags to get stared with site content, and SEO settings. 
+* **Pre-Marked Templates** - Customize the site yourself or follow the premarked `[EDIT]` tags to get started with site content, and SEO settings. 
 
 * **Client-Side Templating** - Allows for easy customization and maintenance. Tempaltes can be found in the `/templates/` directory.
 
