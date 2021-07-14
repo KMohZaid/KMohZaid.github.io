@@ -27,9 +27,9 @@ Change the repository name to `<YOUR_USERNAME_HERE>.github.io` under **Settings 
 <br>
 <br>
 
-:lock: **Add HTTPS**
+:lock: **Verify HTTPS**
 <br>
-Add HTTPS by checking the box at **Settings > Pages > Enforce HTTPS**:
+Verify HTTPS is enabled by reviewing the check box at **Settings > Pages > Enforce HTTPS**:
 <br><br>
 <kbd>
   <img width="700" alt="https" src="https://user-images.githubusercontent.com/13889819/120089629-2f095680-c0ca-11eb-8b53-691bf8252b19.png">
