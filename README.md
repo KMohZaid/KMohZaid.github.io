@@ -5,7 +5,7 @@ GitHub offers free web hosting for your profile and each of your repositories th
 
 **Still not convinced?**
 <br>
-Checkout example [screenshots](#Screenshots) or visit [m8r0wn.com](https://m8r0wn.com).
+Checkout example [screenshots](#Screenshots).
 <br>
 <br>
 
